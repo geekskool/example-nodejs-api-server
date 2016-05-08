@@ -1,0 +1,16 @@
+{
+  "name": "apiserver",
+  "version": "1.0.0",
+  "description": "Example JSON API Server",
+  "scripts": {
+    "start": "node ./bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
