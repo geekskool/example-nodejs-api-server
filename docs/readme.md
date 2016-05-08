@@ -1,6 +1,6 @@
 # Example NodeJS API Server
 
-Based on [Live Coding a JavaScript Poll App with Chris and Alex (1/2)]](https://youtu.be/M7g76xnRxmA?list=PL5ze0DjYv5Da1lnrtzRXCvtQvAcOZkxF2)
+Based on [Live Coding a JavaScript Poll App with Chris and Alex (1/2)](https://youtu.be/M7g76xnRxmA?list=PL5ze0DjYv5Da1lnrtzRXCvtQvAcOZkxF2)
 
 ### Make Project Directory and initialize Git
 
