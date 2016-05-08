@@ -8,7 +8,7 @@
     
     Initialized empty Git repository in /Users/workspace/apiserver/.git/file
 
-Add `.gitignore` file to the directory
+Add `.gitignore` file to the directory with the following line
     npm_modules
 
 ### Create Node Project - package.json
@@ -55,7 +55,7 @@ Add `.gitignore` file to the directory
 Add the following line to the scripts tag in `package.json`
     "start": "node ./bin/www",
 
-Create a `bin` folder and a file called www with the following line
+Create a `bin` folder and a file called www with the following line in the file
     console.log("Hello! From my own Node Server")
 
 Now run your server.
